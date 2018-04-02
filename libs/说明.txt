@@ -1,0 +1,1 @@
+文件夹下wechat-sdk-android-with-mta-1.0.2.jar在开发联调环境中使用
